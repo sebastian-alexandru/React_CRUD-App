@@ -1,4 +1,6 @@
-A React CRUD App using Tailwind CSS, Axios, React-Router-Dom and Json-Server.
+# React-CRUD-App
+
+A React CRUD App created using Tailwind CSS, Axios, React-Router-Dom and Json-Server.
 
 JSON-server for fake APIs and React Axios package to perform HTTP Requests in react.
 
